@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# [DEMO](https://doromones.github.io/fingerprint/)
+
+## DEPENDENCY
+[https://www.npmjs.com/package/@fingerprintjs/fingerprintjs](https://www.npmjs.com/package/@fingerprintjs/fingerprintjs)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
